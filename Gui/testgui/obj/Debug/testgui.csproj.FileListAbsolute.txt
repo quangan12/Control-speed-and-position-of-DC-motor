@@ -1,0 +1,79 @@
+D:\GUICSHARP\testgui\testgui\bin\Debug\testgui.exe.config
+D:\GUICSHARP\testgui\testgui\bin\Debug\testgui.exe
+D:\GUICSHARP\testgui\testgui\bin\Debug\testgui.pdb
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.csproj.AssemblyReference.cache
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.csproj.SuggestedBindingRedirects.cache
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.Form1.resources
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.Properties.Resources.resources
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.csproj.GenerateResource.cache
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.csproj.CoreCompileInputs.cache
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.exe
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.pdb
+D:\GUICSHARP\testgui\testgui\bin\Debug\ZedGraph.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\ZedGraph.xml
+D:\GUICSHARP\testgui\testgui\bin\Debug\de\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\es\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\fr\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\hu\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\it\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\ja\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\pt\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\ru\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\sk\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\sv\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\tr\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\GUICSHARP\testgui\testgui\obj\Debug\testgui.csproj.CopyComplete
+E:\testgui\testgui\bin\Debug\testgui.exe.config
+E:\testgui\testgui\bin\Debug\testgui.exe
+E:\testgui\testgui\bin\Debug\testgui.pdb
+E:\testgui\testgui\bin\Debug\ZedGraph.dll
+E:\testgui\testgui\bin\Debug\ZedGraph.xml
+E:\testgui\testgui\bin\Debug\de\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\es\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\fr\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\hu\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\it\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\ja\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\pt\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\ru\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\sk\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\sv\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\tr\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\testgui\testgui\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\testgui\testgui\obj\Debug\testgui.csproj.AssemblyReference.cache
+E:\testgui\testgui\obj\Debug\testgui.csproj.SuggestedBindingRedirects.cache
+E:\testgui\testgui\obj\Debug\testgui.Form1.resources
+E:\testgui\testgui\obj\Debug\testgui.Properties.Resources.resources
+E:\testgui\testgui\obj\Debug\testgui.csproj.GenerateResource.cache
+E:\testgui\testgui\obj\Debug\testgui.csproj.CoreCompileInputs.cache
+E:\testgui\testgui\obj\Debug\testgui.csproj.CopyComplete
+E:\testgui\testgui\obj\Debug\testgui.exe
+E:\testgui\testgui\obj\Debug\testgui.pdb
+E:\DO AN\testgui\testgui\bin\Debug\testgui.exe.config
+E:\DO AN\testgui\testgui\bin\Debug\testgui.exe
+E:\DO AN\testgui\testgui\bin\Debug\testgui.pdb
+E:\DO AN\testgui\testgui\bin\Debug\ZedGraph.xml
+E:\DO AN\testgui\testgui\bin\Debug\de\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\es\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\fr\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\hu\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\it\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\ja\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\pt\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\ru\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\sk\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\sv\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\tr\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\DO AN\testgui\testgui\obj\Debug\testgui.csproj.AssemblyReference.cache
+E:\DO AN\testgui\testgui\obj\Debug\testgui.Form1.resources
+E:\DO AN\testgui\testgui\obj\Debug\testgui.Properties.Resources.resources
+E:\DO AN\testgui\testgui\obj\Debug\testgui.csproj.GenerateResource.cache
+E:\DO AN\testgui\testgui\obj\Debug\testgui.csproj.CoreCompileInputs.cache
+E:\DO AN\testgui\testgui\obj\Debug\testgui.csproj.CopyComplete
+E:\DO AN\testgui\testgui\obj\Debug\testgui.exe
+E:\DO AN\testgui\testgui\obj\Debug\testgui.pdb
